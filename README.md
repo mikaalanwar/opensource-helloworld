@@ -2,10 +2,10 @@
 This repository is dedicated to helping you in getting started on an amazing journey through open source.
 
 ## How it works?
-You can get started by going through some of the resources linked [below](#Some-useful-resources).
+You can get started by going through some of the resources linked [below](#some-useful-resources).
 Once you have a reasonable understanding of how to open source projects work, you can start by submitting your first pull request in this repository.
 
-All you have to do is to "append" you name to the list in "Participants.md" file in this repository. This would be a good exercise to practice how git works.
+All you have to do is to "append" you name to the list in "[Participants.md](https://github.com/mikaalanwar/opensource-helloworld/blob/master/Participants.md)" file in this repository. This would be a good exercise to practice how git works.
 
 
 ## Benefits of opensource collaboration
@@ -24,7 +24,7 @@ All you have to do is to "append" you name to the list in "Participants.md" file
 - [A simple guide for Git](https://rogerdudler.github.io/git-guide/)
 
 ## Interesting projects to contribute to
-You can find some trending projects [here](https://github.com/trending)
+You can find some trending projects [here](https://github.com/trending) and [here](https://github.com/explore)
 
 ### Note
 
