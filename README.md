@@ -20,6 +20,7 @@ I would strongly recommend you to perform this task using CLI commands. The exac
 - Help the community
 
 ## Some useful resources
+- [An interactive tool to familiarize yourself with GitHub](http://lab.github.com/)
 - [A comprehensive guide on Opensource](https://opensource.guide/)
 - [A tutorial series for beginners on Opensource](https://www.firsttimersonly.com/)
 - [A youtube tutorial for Git](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
